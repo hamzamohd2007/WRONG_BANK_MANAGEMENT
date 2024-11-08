@@ -1,0 +1,40 @@
+Menu:
+Enter 1: Sign in
+Enter 2: Login
+Enter 3: Send message
+Enter 4: Display Messages
+Enter 5: Quit
+Choose an option: 
+
+Choose an option: 3
+You need to log in first.
+
+
+Choose an option: 1
+
+Enter your username to sign in: rohitsharma1234
+Sign in successful! You can now log in.
+
+Enter your username to sign in: rohitsharma1234
+Username already exists. Please choose a different username.
+
+
+Choose an option: 2
+
+Enter your username to login: rahulsharma1234
+Username not found. Please sign in first.
+
+Enter your username to login: rohitsharma1234
+You have logged in as rohan.
+
+
+Choose an option: 3
+
+Enter your message: Hello I am Rohit Sharma.
+Message sent!
+
+Choose an option: 4
+rohan: Hello I am Rohit Sharma.
+
+Choose an option: 5
+Quitting...
